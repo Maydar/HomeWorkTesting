@@ -3,16 +3,16 @@
 <suite thread-count="2" name="Failed suite [Suite]" parallel="classes">
   <test name="Test(failed)" parallel="classes">
     <classes>
-      <class name="ru.mail.homework.tests.TestBrowserFirefox">
-        <methods>
-          <include name="exchangeTestFirefox"/>
-        </methods>
-      </class> <!-- ru.mail.homework.tests.TestBrowserFirefox -->
       <class name="ru.mail.homework.tests.TestBrowserChrome">
         <methods>
           <include name="exchangeTestChrome"/>
         </methods>
       </class> <!-- ru.mail.homework.tests.TestBrowserChrome -->
+      <class name="ru.mail.homework.tests.TestBrowserFirefox">
+        <methods>
+          <include name="exchangeTestFirefox"/>
+        </methods>
+      </class> <!-- ru.mail.homework.tests.TestBrowserFirefox -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
