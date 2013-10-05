@@ -1,12 +1,12 @@
 package ru.mail.homework.src;
 
-import java.util.List;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+
+import java.util.List;
 
 /**
  * @author maydar
@@ -114,7 +114,7 @@ public class ExchangeRates {
 	
 	
 	/**
-	 * геттеры для полей ввода и вывода
+	 * геттеры для полей 
 	 * @return string
 	 */
 	public String getOutputForm(){

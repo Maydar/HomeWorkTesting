@@ -11,14 +11,12 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="/home/maydar/Загрузки/selenium-2.35.0 (2)/selenium-server-standalone-2.35.0.jar"/>
-	<classpathentry kind="lib" path="/home/maydar/Загрузки/selenium-2.35.0 (2)/selenium-server-2.35.0.jar"/>
-	<classpathentry kind="lib" path="/home/maydar/Загрузки/selenium-2.35.0 (2)/selenium-server-2.35.0-srcs.jar"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/maydar/Загрузки/selenium-2.35.0 (2)/selenium-server-2.35.0.jar" sourcepath="/home/maydar/Загрузки/selenium-2.35.0 (2)/selenium-server-2.35.0-srcs.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
