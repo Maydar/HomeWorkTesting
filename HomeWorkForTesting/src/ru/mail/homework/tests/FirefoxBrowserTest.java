@@ -22,28 +22,33 @@ public class FirefoxBrowserTest {
      * Тестирование перевода валюты, проверка граничных, допустимых или недопустимых значений
      */
     @Test
-
     public void exchangeTestFirefox() {
         firefoxDriver.get(ExchangeRates.URL);
 
-        exchangeRatesFirefox.transferExchange("selenium");
-        Assert.assertEquals("", exchangeRatesFirefox.getOutputForm());
+        exchangeRatesFirefox.transferExchange("1290");
+        Assert.assertNotEquals(exchangeRatesFirefox.getOutputForm(), "");
+
+        exchangeRatesFirefox.transferExchange("1290.2392");
+        Assert.assertNotEquals(exchangeRatesFirefox.getOutputForm(), "");
+
+        /*exchangeRatesFirefox.transferExchange("selenium");
+        Assert.assertEquals(exchangeRatesFirefox.getOutputForm(), "");*/
 
         exchangeRatesFirefox.transferExchange("0");
-        Assert.assertEquals("0", exchangeRatesFirefox.getOutputForm());
+        Assert.assertEquals(exchangeRatesFirefox.getOutputForm(), "0");
 
         exchangeRatesFirefox.transferExchange("-10000000");
-        Assert.assertEquals("", exchangeRatesFirefox.getOutputForm());
+        Assert.assertEquals(exchangeRatesFirefox.getOutputForm(), "0");
 
 
         exchangeRatesFirefox.transferExchange("10000000000000000000000000000");
-        Assert.assertEquals("", exchangeRatesFirefox.getOutputForm());
+        Assert.assertNotEquals(exchangeRatesFirefox.getOutputForm(), "0");
 
-        exchangeRatesFirefox.transferExchange("''#@$%*!*@#");
-        Assert.assertEquals("", exchangeRatesFirefox.getOutputForm());
+        /*exchangeRatesFirefox.transferExchange("''#@$%*!*@#.......");
+        Assert.assertEquals(exchangeRatesFirefox.getOutputForm(), "");*/
 
-        exchangeRatesFirefox.transferExchange("<script>alert(1)</script>");
-        Assert.assertEquals("", exchangeRatesFirefox.getOutputForm());
+        /*exchangeRatesFirefox.transferExchange("<script>alert(1)</script>");
+        Assert.assertEquals(exchangeRatesFirefox.getOutputForm(),"");*/
     }
 
     /**
@@ -52,14 +57,17 @@ public class FirefoxBrowserTest {
     @Test
     public void exchangeSwapTestFirefox(){
         firefoxDriver.get(ExchangeRates.URL);
-        exchangeRatesFirefox.transferExchange("1290");
+        exchangeRatesFirefox.transferExchange("1294");
+        exchangeRatesFirefox.changeInputExchange(ExchangeCodes.RUB.getExchangeCode());
         String oldValueString = exchangeRatesFirefox.getOutputForm();
+        String oldValueExchange =  exchangeRatesFirefox.getOutputExchangeElem();
+
         exchangeRatesFirefox.swapExchanges();
-        if (exchangeRatesFirefox.getOutputExchangeElem().equals(exchangeRatesFirefox.getInputExchangeElem())) {
-            Assert.assertEquals(oldValueString, exchangeRatesFirefox.getOutputForm());
+        if (exchangeRatesFirefox.getOutputExchangeElem().equals(oldValueExchange)) {
+            Assert.assertEquals(exchangeRatesFirefox.getOutputForm(), oldValueString );
         }
         else {
-            Assert.assertNotEquals(oldValueString, exchangeRatesFirefox.getOutputForm());
+            Assert.assertNotEquals(exchangeRatesFirefox.getOutputForm(), oldValueString);
         }
 
     }
@@ -68,22 +76,16 @@ public class FirefoxBrowserTest {
     /**
      * Тестирование смены курса различных валют
      */
-    @Test
+   @Test
     public void changeInputExchangeTestFirefox(){
         firefoxDriver.get(ExchangeRates.URL);
         exchangeRatesFirefox.transferExchange("1290");
-        String oldValueString = exchangeRatesFirefox.getOutputForm();
+        String oldValueString = "";
 
         for(ExchangeCodes o : ExchangeCodes.values()) {
-
+            oldValueString = exchangeRatesFirefox.getOutputForm();
             exchangeRatesFirefox.changeInputExchange(o.getExchangeCode());
-
-            if (exchangeRatesFirefox.getOutputExchangeElem().equals(exchangeRatesFirefox.getInputExchangeElem())) {
-                Assert.assertEquals(oldValueString, exchangeRatesFirefox.getOutputForm());
-            }
-            else {
-                Assert.assertNotEquals(oldValueString, exchangeRatesFirefox.getOutputForm());
-            }
+            Assert.assertNotEquals(exchangeRatesFirefox.getOutputForm(), oldValueString);
         }
 
     }
@@ -92,18 +94,19 @@ public class FirefoxBrowserTest {
     public void changeOutputExchangeTestFirefox(){
         firefoxDriver.get(ExchangeRates.URL);
         exchangeRatesFirefox.transferExchange("1290");
-        String oldValueString = exchangeRatesFirefox.getOutputForm();
-
+        String oldValueString = "";
+        String oldExchangeString = "";
         for(ExchangeCodes o : ExchangeCodes.values()) {
-
+            oldValueString = exchangeRatesFirefox.getOutputForm();
+            oldExchangeString  = exchangeRatesFirefox.getOutputExchangeElem();
             exchangeRatesFirefox.changeOutputExchange(o.getExchangeCode());
 
-            if (exchangeRatesFirefox.getOutputExchangeElem().equals(exchangeRatesFirefox.getInputExchangeElem())) {
-                Assert.assertEquals(oldValueString, exchangeRatesFirefox.getOutputForm());
+            if (oldExchangeString.equals(exchangeRatesFirefox.getOutputExchangeElem())) {
+                Assert.assertEquals(exchangeRatesFirefox.getOutputForm(), oldValueString);
             }
             else {
+                Assert.assertNotEquals(exchangeRatesFirefox.getOutputForm(), oldValueString);
 
-                Assert.assertNotEquals(oldValueString, exchangeRatesFirefox.getOutputForm());
             }
         }
 

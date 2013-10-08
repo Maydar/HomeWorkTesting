@@ -69,6 +69,7 @@ public class ExchangeRates {
 	 * Трансфер валюты
 	 */
 	public String transferExchange(String value) {
+        inputForm.clear();
 		inputForm.sendKeys(value);
 		return getOutputForm();
 	}
@@ -102,9 +103,10 @@ public class ExchangeRates {
 	 */
 	public void changeOutputExchange(final String value){
 		outputExchangeElement.click();
-		List<WebElement> options = selectInputExchangeElem.findElements(By.tagName("span"));
+		List<WebElement> options = selectOutputExchangeElem.findElements(By.tagName("span"));
 		
 	    for (WebElement option : options) {
+            System.out.println(option.getAttribute("data-code"));
 	        if (value.equals(option.getAttribute("data-code"))) {
 	            option.click();
 	            break;
@@ -126,6 +128,7 @@ public class ExchangeRates {
 	}
 	
 	public String getInputExchangeElem() {
+
 		return inputExchangeElement.getText();
 	}
 	
