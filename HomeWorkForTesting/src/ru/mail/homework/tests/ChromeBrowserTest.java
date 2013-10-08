@@ -17,15 +17,13 @@ import java.io.IOException;
  * Date: 05.10.13
  * Time: 18:03
  * To change this template use File | Settings | File Templates.
+ *
+ *  Закомментированные строки - тест на них падает, так как при при замене на текст значение не меняется
  */
+
 public class ChromeBrowserTest {
     private static WebDriver chromeDriver = new ChromeDriver();
     private ExchangeRates exchangeRatesChrome = new ExchangeRates(chromeDriver);
-
-
-    /**
-     *  Настройка хрома
-     */
 
     /**
      * Тестирование перевода валюты, проверка граничных, допустимых или недопустимых значений
