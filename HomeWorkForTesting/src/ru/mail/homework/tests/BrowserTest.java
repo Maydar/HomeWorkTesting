@@ -1,15 +1,16 @@
 package ru.mail.homework.tests;
 
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chrome.ChromeDriverService;
+
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.Assert;
 import org.testng.annotations.*;
 import ru.mail.homework.src.ExchangeCodes;
 import ru.mail.homework.src.ExchangeRates;
-
-import java.io.File;
-import java.io.IOException;
+import sun.reflect.generics.reflectiveObjects.NotImplementedException;
+import java.net.MalformedURLException;
+import java.net.URL;
 
 /**
  * Created with IntelliJ IDEA.
@@ -21,9 +22,24 @@ import java.io.IOException;
  *  Закомментированные строки - тест на них падает, так как при при замене на текст значение не меняется
  */
 
-public class ChromeBrowserTest {
-    private static WebDriver chromeDriver = new ChromeDriver();
-    private ExchangeRates exchangeRatesChrome = new ExchangeRates(chromeDriver);
+public class BrowserTest {
+    private static WebDriver driver;
+    private ExchangeRates exchangeRatesChrome = new ExchangeRates(driver);
+
+
+    @BeforeClass
+    @Parameters({"browser", "hub", "url"})
+    public void setUp(String browser, String hub, String url) throws MalformedURLException {
+        if (browser.toLowerCase().equals("chrome"))
+            this.driver = new RemoteWebDriver(new URL(hub), DesiredCapabilities.chrome());
+        else if (browser.toLowerCase().equals("firefox"))
+            this.driver = new RemoteWebDriver(new URL(hub), DesiredCapabilities.firefox());
+        else
+            throw new NotImplementedException();
+        this.driver.manage().window().maximize();
+        this.driver.get(url);
+    }
+
 
     /**
      * Тестирование перевода валюты, проверка граничных, допустимых или недопустимых значений
@@ -31,7 +47,7 @@ public class ChromeBrowserTest {
     @Test
     public void exchangeTestChrome() {
         System.setProperty("webdriver.chrome.driver", "/home/maydar/git/HomeWorkTesting/HomeWorkForTesting/chromedriver");
-        chromeDriver.get(ExchangeRates.URL);
+       // driver.get(ExchangeRates.URL);
 
         exchangeRatesChrome.transferExchange("1290");
         Assert.assertNotEquals(exchangeRatesChrome.getOutputForm(), "");
@@ -68,7 +84,7 @@ public class ChromeBrowserTest {
     @Test
     public void exchangeSwapTestChrome(){
         System.setProperty("webdriver.chrome.driver", "/home/maydar/git/HomeWorkTesting/HomeWorkForTesting/chromedriver");
-        chromeDriver.get(ExchangeRates.URL);
+     //   driver.get(ExchangeRates.URL);
         exchangeRatesChrome.transferExchange("1290");
         exchangeRatesChrome.changeInputExchange(ExchangeCodes.RUB.getExchangeCode());
         String oldValueString = exchangeRatesChrome.getOutputForm();
@@ -90,7 +106,7 @@ public class ChromeBrowserTest {
     @Test
     public void changeInputExchangeTestChrome(){
         System.setProperty("webdriver.chrome.driver", "/home/maydar/git/HomeWorkTesting/HomeWorkForTesting/chromedriver");
-        chromeDriver.get(ExchangeRates.URL);
+      //  driver.get(ExchangeRates.URL);
         exchangeRatesChrome.transferExchange("1290");
         String oldValueString = "";
 
@@ -105,7 +121,7 @@ public class ChromeBrowserTest {
     @Test
     public void changeOutputExchangeTestChrome(){
         System.setProperty("webdriver.chrome.driver", "/home/maydar/git/HomeWorkTesting/HomeWorkForTesting/chromedriver");
-        chromeDriver.get(ExchangeRates.URL);
+      //  driver.get(ExchangeRates.URL);
         exchangeRatesChrome.transferExchange("1290");
         String oldValueString = "";
         String oldExchangeString = "";
@@ -123,5 +139,10 @@ public class ChromeBrowserTest {
             }
         }
 
+    }
+
+    @AfterMethod
+    public void tearDown() {
+        this.driver.close();
     }
 }

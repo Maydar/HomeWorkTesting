@@ -2,295 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71aaed06-6b1c-42ed-857c-83279bb4a865" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/HomeWorkAndroid.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/android-support-v7-appcompat.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/FourthActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/FourthActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/FragmentDialogue$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/FragmentDialogue$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/FragmentDialogue$FragmentDialogListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/FragmentDialogue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/FragmentDialogue2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/FragmentDialogue2$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/FragmentDialogue2$FragmentDialogListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/FragmentDialogue2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/MainActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/MainActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/MainActivity$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/MainActivity$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/SecondActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/SecondFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/classes/ru/mail/homeworkandroid1/ThirdActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/dexedLibs/android-support-v4-7e3826364e202ce16419ca10787391e0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/dexedLibs/android-support-v7-appcompat-81364b54d6e280f556099106e089d4e7.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/jarlist.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-hdpi/i_1379872758_bank_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-hdpi/i_1379872762_gear_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-hdpi/i_1379872807_mail_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-hdpi/i_1379872877_bank_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-hdpi/i_1379872891_gear_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-hdpi/i_1379872962_mail_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-hdpi/i_1379875129_github_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-hdpi/i_1379875134_robot_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-hdpi/inter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-ldpi/i_1379872758_bank_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-ldpi/i_1379872762_gear_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-ldpi/i_1379872807_mail_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-ldpi/i_1379872877_bank_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-ldpi/i_1379872891_gear_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-ldpi/i_1379872962_mail_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-ldpi/i_1379875129_github_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-ldpi/i_1379875134_robot_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-ldpi/inter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-mdpi/i_1379872758_bank_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-mdpi/i_1379872762_gear_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-mdpi/i_1379872807_mail_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-mdpi/i_1379872877_bank_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-mdpi/i_1379872891_gear_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-mdpi/i_1379872962_mail_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-mdpi/i_1379875129_github_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-mdpi/i_1379875134_robot_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-mdpi/inter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-xhdpi/i_1379872758_bank_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-xhdpi/i_1379872762_gear_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-xhdpi/i_1379872807_mail_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-xhdpi/i_1379872877_bank_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-xhdpi/i_1379872891_gear_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-xhdpi/i_1379872962_mail_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-xhdpi/i_1379875129_github_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-xhdpi/i_1379875134_robot_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-xhdpi/inter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/res/crunch/drawable-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/bin/resources.ap_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/gen/ru/mail/homeworkandroid1/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/gen/ru/mail/homeworkandroid1/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/ic_launcher-web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/libs/android-support-v4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/libs/android-support-v7-appcompat.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/lint.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-hdpi/i_1379872758_bank_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-hdpi/i_1379872762_gear_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-hdpi/i_1379872807_mail_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-hdpi/i_1379872877_bank_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-hdpi/i_1379872891_gear_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-hdpi/i_1379872962_mail_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-hdpi/i_1379875129_github_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-hdpi/i_1379875134_robot_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-hdpi/inter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-ldpi/i_1379872758_bank_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-ldpi/i_1379872762_gear_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-ldpi/i_1379872807_mail_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-ldpi/i_1379872877_bank_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-ldpi/i_1379872891_gear_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-ldpi/i_1379872962_mail_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-ldpi/i_1379875129_github_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-ldpi/i_1379875134_robot_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-ldpi/inter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-mdpi/i_1379872758_bank_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-mdpi/i_1379872762_gear_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-mdpi/i_1379872807_mail_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-mdpi/i_1379872877_bank_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-mdpi/i_1379872891_gear_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-mdpi/i_1379872962_mail_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-mdpi/i_1379875129_github_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-mdpi/i_1379875134_robot_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-mdpi/inter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-xhdpi/i_1379872758_bank_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-xhdpi/i_1379872762_gear_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-xhdpi/i_1379872807_mail_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-xhdpi/i_1379872877_bank_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-xhdpi/i_1379872891_gear_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-xhdpi/i_1379872962_mail_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-xhdpi/i_1379875129_github_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-xhdpi/i_1379875134_robot_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-xhdpi/inter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable/btn_style.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/drawable/btn_style_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/layout-land/activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/layout-land/activity_third.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/layout/activity_fourth.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/layout/activity_fragment_dialogue.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/layout/activity_fragment_dialogue2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/layout/activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/layout/activity_second.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/layout/activity_third.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/layout/second_fragment.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/menu/fourth.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/menu/fragment_dialogue.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/menu/fragment_dialogue2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/menu/main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/menu/second.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/menu/third.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/values-sw600dp/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/values-sw720dp-land/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/values-v11/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/values-v14/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/res/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/src/ru/mail/homeworkandroid1/FourthActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/src/ru/mail/homeworkandroid1/FragmentDialogue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/src/ru/mail/homeworkandroid1/FragmentDialogue2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/src/ru/mail/homeworkandroid1/MainActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/src/ru/mail/homeworkandroid1/SecondActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/src/ru/mail/homeworkandroid1/SecondFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid/src/ru/mail/homeworkandroid1/ThirdActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/FourthActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/FourthActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/FragmentDialogue$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/FragmentDialogue$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/FragmentDialogue$FragmentDialogListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/FragmentDialogue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/FragmentDialogue2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/FragmentDialogue2$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/FragmentDialogue2$FragmentDialogListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/FragmentDialogue2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/MainActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/MainActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/MainActivity$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/MainActivity$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/SecondActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/SecondFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/bin/classes/ru/mail/homeworkandroid1/ThirdActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/gen/ru/mail/homeworkandroid1/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/gen/ru/mail/homeworkandroid1/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/ic_launcher-web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/libs/android-support-v4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/libs/android-support-v7-appcompat.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/lint.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-hdpi/i_1379872758_bank_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-hdpi/i_1379872762_gear_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-hdpi/i_1379872807_mail_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-hdpi/i_1379872877_bank_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-hdpi/i_1379872891_gear_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-hdpi/i_1379872962_mail_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-hdpi/i_1379875129_github_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-hdpi/i_1379875134_robot_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-hdpi/inter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-ldpi/i_1379872758_bank_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-ldpi/i_1379872762_gear_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-ldpi/i_1379872807_mail_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-ldpi/i_1379872877_bank_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-ldpi/i_1379872891_gear_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-ldpi/i_1379872962_mail_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-ldpi/i_1379875129_github_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-ldpi/i_1379875134_robot_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-ldpi/inter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-mdpi/i_1379872758_bank_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-mdpi/i_1379872762_gear_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-mdpi/i_1379872807_mail_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-mdpi/i_1379872877_bank_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-mdpi/i_1379872891_gear_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-mdpi/i_1379872962_mail_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-mdpi/i_1379875129_github_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-mdpi/i_1379875134_robot_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-mdpi/inter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-xhdpi/i_1379872758_bank_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-xhdpi/i_1379872762_gear_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-xhdpi/i_1379872807_mail_basic_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-xhdpi/i_1379872877_bank_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-xhdpi/i_1379872891_gear_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-xhdpi/i_1379872962_mail_basic_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-xhdpi/i_1379875129_github_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-xhdpi/i_1379875134_robot_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-xhdpi/inter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable/btn_style.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/drawable/btn_style_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/layout-land/activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/layout-land/activity_third.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/layout/activity_fourth.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/layout/activity_fragment_dialogue.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/layout/activity_fragment_dialogue2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/layout/activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/layout/activity_second.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/layout/activity_third.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/layout/second_fragment.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/menu/fourth.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/menu/fragment_dialogue.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/menu/fragment_dialogue2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/menu/main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/menu/second.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/menu/third.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/values-sw600dp/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/values-sw720dp-land/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/values-v11/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/values-v14/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/res/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/src/ru/mail/homeworkandroid1/FourthActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/src/ru/mail/homeworkandroid1/FragmentDialogue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/src/ru/mail/homeworkandroid1/FragmentDialogue2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/src/ru/mail/homeworkandroid1/MainActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/src/ru/mail/homeworkandroid1/SecondActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/src/ru/mail/homeworkandroid1/SecondFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomeWorkAndroid1/src/ru/mail/homeworkandroid1/ThirdActivity.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/ChromeBrowserTest.java" afterPath="$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/BrowserTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/FirefoxBrowserTest.java" afterPath="$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/FirefoxBrowserTestOld.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HomeWorkForTesting/src/testing.xml" afterPath="$PROJECT_DIR$/HomeWorkForTesting/src/testing.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HomeWorkTesting.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1383002471838" ignored="false" />
+    <file path="/Dummy.txt" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1383038609958" ignored="false" />
     <file path="/a.java" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1380976790855" ignored="false" />
-    <file path="/fragment.java" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1381181189190" ignored="false" />
+    <file path="/fragment.java" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1383037002386" ignored="false" />
     <file path="/pom.xml" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1381247422617" ignored="false" />
     <file path="/FirefoxTest.java" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1380981237274" ignored="false" />
-    <file path="/ChromeBrowserTest.java" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1381184479057" ignored="false" />
+    <file path="/ChromeBrowserTest.java" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1383037642347" ignored="false" />
     <file path="/ExchangeRatesTest.java" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1380982590603" ignored="false" />
     <file path="/ExchangeRates.java" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1381058236119" ignored="false" />
     <file path="/FirefoxBrowserTest.java" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1381248482045" ignored="false" />
     <file path="/test.xml" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1381177881854" ignored="false" />
-    <file path="/testing.xml" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1381180088187" ignored="false" />
+    <file path="/testing.xml" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1383038348446" ignored="false" />
     <file path="/dummy.xml" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1381180116535" ignored="false" />
+    <file path="/a.dummy" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1383036511975" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -310,7 +41,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -347,6 +77,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -377,16 +108,16 @@
       <file leaf-file-name="ExchangeCodes.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/src/ExchangeCodes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="722" selection-end="722" vertical-scroll-proportion="0.0">
+            <state line="6" column="12" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FirefoxBrowserTest.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/FirefoxBrowserTest.java">
+      <file leaf-file-name="FirefoxBrowserTestOld.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/FirefoxBrowserTestOld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="107" selection-start="708" selection-end="809" vertical-scroll-proportion="0.039175257">
+            <state line="96" column="16" selection-start="3478" selection-end="3524" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -395,25 +126,25 @@
       <file leaf-file-name="ExchangeRates.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/src/ExchangeRates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="43" selection-start="1851" selection-end="1851" vertical-scroll-proportion="0.0">
+            <state line="17" column="120" selection-start="406" selection-end="488" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChromeBrowserTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/ChromeBrowserTest.java">
+      <file leaf-file-name="BrowserTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/BrowserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="3" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0">
+            <state line="29" column="16" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testing.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="testing.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/testing.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="63" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0">
+            <state line="5" column="47" selection-start="313" selection-end="313" vertical-scroll-proportion="0.19076306">
               <folding />
             </state>
           </provider>
@@ -451,9 +182,10 @@
         <option value="$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/ExchangeRatesTest.java" />
         <option value="$PROJECT_DIR$/HomeWorkForTesting/testing.xml" />
         <option value="$PROJECT_DIR$/HomeWorkForTesting/pom.xml" />
-        <option value="$PROJECT_DIR$/HomeWorkForTesting/src/testing.xml" />
         <option value="$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/FirefoxBrowserTest.java" />
         <option value="$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/ChromeBrowserTest.java" />
+        <option value="$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/BrowserTest.java" />
+        <option value="$PROJECT_DIR$/HomeWorkForTesting/src/testing.xml" />
       </list>
     </option>
   </component>
@@ -589,6 +321,78 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWorkTesting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWorkForTesting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWorkTesting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWorkForTesting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWorkTesting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWorkForTesting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWorkTesting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWorkForTesting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".settings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -631,48 +435,26 @@
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="ru.mail.homework.tests" />
       <recent name="ru.mail.homework.src" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/HomeWorkForTesting/src" />
       <recent name="$PROJECT_DIR$/HomeWorkForTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.FirefoxBrowserTest">
-    <configuration default="false" name="All in HomeWorkForTesting" type="JUnit" factoryName="JUnit" temporary="true">
-      <module name="HomeWorkForTesting" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="FirefoxBrowserTest" type="TestNG" factoryName="TestNG" temporary="true">
+  <component name="RunManager" selected="TestNG./home/maydar/git/HomeWorkTesting/HomeWorkForTesting/src/testing.xml">
+    <configuration default="false" name="FirefoxBrowserTestOld" type="TestNG" factoryName="TestNG" temporary="true">
       <module name="HomeWorkForTesting" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="ru.mail.homework.tests" />
-      <option name="MAIN_CLASS_NAME" value="ru.mail.homework.tests.FirefoxBrowserTest" />
+      <option name="MAIN_CLASS_NAME" value="ru.mail.homework.tests.FirefoxBrowserTestOld" />
       <option name="METHOD_NAME" value="" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -695,13 +477,13 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="FirefoxBrowserTest.exchangeSwapTestFirefox" type="TestNG" factoryName="TestNG" temporary="true">
+    <configuration default="false" name="FirefoxBrowserTestOld.exchangeSwapTestFirefox" type="TestNG" factoryName="TestNG" temporary="true">
       <module name="HomeWorkForTesting" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="ru.mail.homework.tests" />
-      <option name="MAIN_CLASS_NAME" value="ru.mail.homework.tests.FirefoxBrowserTest" />
+      <option name="MAIN_CLASS_NAME" value="ru.mail.homework.tests.FirefoxBrowserTestOld" />
       <option name="METHOD_NAME" value="exchangeSwapTestFirefox" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
@@ -724,13 +506,13 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="FirefoxBrowserTest.exchangeTestFirefox" type="TestNG" factoryName="TestNG" temporary="true">
+    <configuration default="false" name="FirefoxBrowserTestOld.exchangeTestFirefox" type="TestNG" factoryName="TestNG" temporary="true">
       <module name="HomeWorkForTesting" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="ru.mail.homework.tests" />
-      <option name="MAIN_CLASS_NAME" value="ru.mail.homework.tests.FirefoxBrowserTest" />
+      <option name="MAIN_CLASS_NAME" value="ru.mail.homework.tests.FirefoxBrowserTestOld" />
       <option name="METHOD_NAME" value="exchangeTestFirefox" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
@@ -753,16 +535,45 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="FirefoxBrowserTest.changeOutputExchangeTestFirefox" type="TestNG" factoryName="TestNG" temporary="true">
+    <configuration default="false" name="FirefoxBrowserTestOld.changeOutputExchangeTestFirefox" type="TestNG" factoryName="TestNG" temporary="true">
       <module name="HomeWorkForTesting" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="ru.mail.homework.tests" />
-      <option name="MAIN_CLASS_NAME" value="ru.mail.homework.tests.FirefoxBrowserTest" />
+      <option name="MAIN_CLASS_NAME" value="ru.mail.homework.tests.FirefoxBrowserTestOld" />
       <option name="METHOD_NAME" value="changeOutputExchangeTestFirefox" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/HomeWorkForTesting" />
+      <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/HomeWorkForTesting/src" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" value="" />
+      <envs />
+      <properties />
+      <listeners />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="&lt;default&gt;" type="TestNG" factoryName="TestNG" temporary="true">
+      <module name="HomeWorkForTesting" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/HomeWorkForTesting" />
@@ -996,19 +807,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="TestNG./home/maydar/git/HomeWorkTesting/HomeWorkForTesting/src/testing.xml" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.All in HomeWorkForTesting" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.FirefoxBrowserTest" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.FirefoxBrowserTest.exchangeSwapTestFirefox" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.FirefoxBrowserTest.exchangeTestFirefox" />
-      <item index="5" class="java.lang.String" itemvalue="TestNG.FirefoxBrowserTest.changeOutputExchangeTestFirefox" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.FirefoxBrowserTestOld" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.FirefoxBrowserTestOld.exchangeSwapTestFirefox" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.FirefoxBrowserTestOld.exchangeTestFirefox" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.FirefoxBrowserTestOld.changeOutputExchangeTestFirefox" />
+      <item index="5" class="java.lang.String" itemvalue="TestNG.&lt;default&gt;" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.FirefoxBrowserTest" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.FirefoxBrowserTest.changeOutputExchangeTestFirefox" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.FirefoxBrowserTest.exchangeTestFirefox" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.FirefoxBrowserTest.exchangeSwapTestFirefox" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.All in HomeWorkForTesting" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.&lt;default&gt;" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.FirefoxBrowserTestOld" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.FirefoxBrowserTestOld.changeOutputExchangeTestFirefox" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.FirefoxBrowserTestOld.exchangeTestFirefox" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.FirefoxBrowserTestOld.exchangeSwapTestFirefox" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1057,7 +868,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="66" y="64" width="1855" height="1040" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1069,9 +880,9 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.49972114" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24986057" sideWeight="0.67052025" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20468488" sideWeight="0.6516724" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18627998" sideWeight="0.6516724" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25097603" sideWeight="0.6516724" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14835471" sideWeight="0.6516724" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34832758" sideWeight="0.52928054" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1149,13 +960,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/src/ExchangeCodes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="81" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
@@ -1206,9 +1010,42 @@
         <state line="31" column="23" selection-start="1379" selection-end="1379" vertical-scroll-proportion="0.34911242" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/testing.xml">
+    <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/HomeWorkForTesting.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="63" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/src/ExchangeCodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="12" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/src/ExchangeRates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="120" selection-start="406" selection-end="488" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/FirefoxBrowserTestOld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="16" selection-start="3478" selection-end="3524" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/2.35.0/selenium-remote-driver-2.35.0-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="127" column="9" selection-start="4617" selection-end="4617" vertical-scroll-proportion="0.33195877" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/BrowserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="16" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1220,37 +1057,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/HomeWorkForTesting.iml">
+    <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/testing.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/src/ExchangeCodes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="722" selection-end="722" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/src/ExchangeRates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="43" selection-start="1851" selection-end="1851" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/ChromeBrowserTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="3" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/FirefoxBrowserTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="107" selection-start="708" selection-end="809" vertical-scroll-proportion="0.039175257">
+        <state line="5" column="47" selection-start="313" selection-end="313" vertical-scroll-proportion="0.19076306">
           <folding />
         </state>
       </provider>

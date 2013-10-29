@@ -14,7 +14,7 @@ import ru.mail.homework.src.ExchangeRates;
  * Time: 18:04
  * To change this template use File | Settings | File Templates.
  */
-public class FirefoxBrowserTest {
+public class FirefoxBrowserTestOld {
     private WebDriver firefoxDriver = new FirefoxDriver();
     private ExchangeRates exchangeRatesFirefox = new ExchangeRates(firefoxDriver);
 
