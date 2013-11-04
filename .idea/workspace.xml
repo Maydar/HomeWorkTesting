@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71aaed06-6b1c-42ed-857c-83279bb4a865" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/ChromeBrowserTest.java" afterPath="$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/BrowserTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/FirefoxBrowserTest.java" afterPath="$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/FirefoxBrowserTestOld.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HomeWorkForTesting/src/testing.xml" afterPath="$PROJECT_DIR$/HomeWorkForTesting/src/testing.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/BrowserTest.java" afterPath="$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/BrowserTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HomeWorkTesting.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1383038609958" ignored="false" />
+    <file path="/Dummy.txt" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1383567754963" ignored="false" />
     <file path="/a.java" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1380976790855" ignored="false" />
-    <file path="/fragment.java" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1383037002386" ignored="false" />
+    <file path="/fragment.java" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1383055192329" ignored="false" />
     <file path="/pom.xml" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1381247422617" ignored="false" />
     <file path="/FirefoxTest.java" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1380981237274" ignored="false" />
     <file path="/ChromeBrowserTest.java" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1383037642347" ignored="false" />
@@ -21,7 +20,7 @@
     <file path="/test.xml" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1381177881854" ignored="false" />
     <file path="/testing.xml" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1383038348446" ignored="false" />
     <file path="/dummy.xml" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1381180116535" ignored="false" />
-    <file path="/a.dummy" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1383036511975" ignored="false" />
+    <file path="/a.dummy" changelist="71aaed06-6b1c-42ed-857c-83279bb4a865" time="1383568073947" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +33,9 @@
     <rightPanel />
     <splitter proportion="0.5" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/HomeWorkTesting$_home_maydar_git_HomeWorkTesting_HomeWorkForTesting_src_testing_xml.coverage" NAME="$PROJECT_DIR$/HomeWorkForTesting/src/testing.xml Coverage Results" MODIFIED="1383568269983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -41,6 +43,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -77,7 +80,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -132,19 +134,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BrowserTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="BrowserTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/BrowserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="16" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="24" column="9" selection-start="726" selection-end="726" vertical-scroll-proportion="0.7794971">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testing.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="testing.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/testing.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="47" selection-start="313" selection-end="313" vertical-scroll-proportion="0.19076306">
+            <state line="18" column="48" selection-start="692" selection-end="692" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -184,8 +188,8 @@
         <option value="$PROJECT_DIR$/HomeWorkForTesting/pom.xml" />
         <option value="$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/FirefoxBrowserTest.java" />
         <option value="$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/ChromeBrowserTest.java" />
-        <option value="$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/BrowserTest.java" />
         <option value="$PROJECT_DIR$/HomeWorkForTesting/src/testing.xml" />
+        <option value="$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/BrowserTest.java" />
       </list>
     </option>
   </component>
@@ -218,20 +222,6 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="Plugins" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="HomeWorkForTesting" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
           <option name="myItemId" value="Lifecycle" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
         </PATH_ELEMENT>
@@ -239,10 +229,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="66" />
-    <option name="y" value="64" />
-    <option name="width" value="1855" />
-    <option name="height" value="1040" />
+    <option name="x" value="64" />
+    <option name="y" value="-8" />
+    <option name="width" value="1857" />
+    <option name="height" value="1089" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -267,6 +257,8 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
@@ -416,6 +408,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="113" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="111" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="MemberChooser.showClasses" value="true" />
@@ -449,6 +442,7 @@
   </component>
   <component name="RunManager" selected="TestNG./home/maydar/git/HomeWorkTesting/HomeWorkForTesting/src/testing.xml">
     <configuration default="false" name="FirefoxBrowserTestOld" type="TestNG" factoryName="TestNG" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="HomeWorkForTesting" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
@@ -478,6 +472,7 @@
       <method />
     </configuration>
     <configuration default="false" name="FirefoxBrowserTestOld.exchangeSwapTestFirefox" type="TestNG" factoryName="TestNG" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="HomeWorkForTesting" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
@@ -507,6 +502,7 @@
       <method />
     </configuration>
     <configuration default="false" name="FirefoxBrowserTestOld.exchangeTestFirefox" type="TestNG" factoryName="TestNG" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="HomeWorkForTesting" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
@@ -536,6 +532,7 @@
       <method />
     </configuration>
     <configuration default="false" name="FirefoxBrowserTestOld.changeOutputExchangeTestFirefox" type="TestNG" factoryName="TestNG" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="HomeWorkForTesting" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
@@ -565,6 +562,7 @@
       <method />
     </configuration>
     <configuration default="false" name="&lt;default&gt;" type="TestNG" factoryName="TestNG" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="HomeWorkForTesting" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
@@ -654,6 +652,7 @@
       <setting name="cmdLine" value="run-app" />
       <setting name="depsClasspath" value="true" />
       <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -694,6 +693,7 @@
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="HomeWorkForTesting" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
@@ -721,6 +721,7 @@
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -735,6 +736,7 @@
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -771,6 +773,7 @@
       <method />
     </configuration>
     <configuration default="false" name="$PROJECT_DIR$/HomeWorkForTesting/src/testing.xml" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="HomeWorkForTesting" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
@@ -795,12 +798,14 @@
       <envs />
       <properties />
       <listeners />
+      <RunnerSettings RunnerId="Cover" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="58783" />
         <option name="TRANSPORT" value="0" />
         <option name="LOCAL" value="true" />
       </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Cover" />
       <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -863,32 +868,42 @@
       <created>1381248729577</created>
       <updated>1381248729577</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="refactoring of class(In one class two browsers)&#10;Failed: connection refused&#10;">
+      <created>1383038734782</created>
+      <updated>1383038734782</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="64" width="1855" height="1040" extended-state="0" />
+    <frame x="64" y="-8" width="1857" height="1089" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39907727" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947975" sideWeight="0.47071946" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.49972114" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1977716" sideWeight="0.28275108" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24986057" sideWeight="0.67052025" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18627998" sideWeight="0.6516724" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1977716" sideWeight="0.36790392" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14835471" sideWeight="0.6516724" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34832758" sideWeight="0.52928054" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2529248" sideWeight="0.65174675" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34825328" sideWeight="0.52928054" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -934,7 +949,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="added some comments&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring of class(In one class two browsers)&#10;Failed: connection refused&#10;" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -951,6 +966,7 @@
     <MESSAGE value="migrate to idea&#10;" />
     <MESSAGE value="it Works" />
     <MESSAGE value="added some comments&#10;" />
+    <MESSAGE value="refactoring of class(In one class two browsers)&#10;Failed: connection refused&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1017,16 +1033,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/src/ExchangeCodes.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/2.35.0/selenium-remote-driver-2.35.0-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="12" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="127" column="9" selection-start="4617" selection-end="4617" vertical-scroll-proportion="0.33195877" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/src/ExchangeRates.java">
+    <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="120" selection-start="406" selection-end="488" vertical-scroll-proportion="0.0">
+        <state line="43" column="31" selection-start="1740" selection-end="1740" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1038,29 +1052,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/2.35.0/selenium-remote-driver-2.35.0-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java">
+    <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/src/ExchangeRates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="127" column="9" selection-start="4617" selection-end="4617" vertical-scroll-proportion="0.33195877" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/BrowserTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="16" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0">
+        <state line="17" column="120" selection-start="406" selection-end="488" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/pom.xml">
+    <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/src/ExchangeCodes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="31" selection-start="1740" selection-end="1740" vertical-scroll-proportion="0.0">
+        <state line="6" column="12" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/testing.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="47" selection-start="313" selection-end="313" vertical-scroll-proportion="0.19076306">
+        <state line="18" column="48" selection-start="692" selection-end="692" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorkForTesting/src/ru/mail/homework/tests/BrowserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="9" selection-start="726" selection-end="726" vertical-scroll-proportion="0.7794971">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -24,7 +24,7 @@ import java.net.URL;
 
 public class BrowserTest {
     private static WebDriver driver;
-    private ExchangeRates exchangeRatesChrome = new ExchangeRates(driver);
+    private ExchangeRates exchangeRates = new ExchangeRates(driver);
 
 
     @BeforeClass
@@ -45,34 +45,33 @@ public class BrowserTest {
      * Тестирование перевода валюты, проверка граничных, допустимых или недопустимых значений
      */
     @Test
-    public void exchangeTestChrome() {
+    public void exchangeTest() {
         System.setProperty("webdriver.chrome.driver", "/home/maydar/git/HomeWorkTesting/HomeWorkForTesting/chromedriver");
-       // driver.get(ExchangeRates.URL);
 
-        exchangeRatesChrome.transferExchange("1290");
-        Assert.assertNotEquals(exchangeRatesChrome.getOutputForm(), "");
+        exchangeRates.transferExchange("1290");
+        Assert.assertNotEquals(exchangeRates.getOutputForm(), "");
 
-        exchangeRatesChrome.transferExchange("1290.2392");
-        Assert.assertNotEquals(exchangeRatesChrome.getOutputForm(), "");
+        exchangeRates.transferExchange("1290.2392");
+        Assert.assertNotEquals(exchangeRates.getOutputForm(), "");
 
-        /*exchangeRatesChrome.transferExchange("selenium");
-        Assert.assertEquals(exchangeRatesChrome.getOutputForm(), "");*/
+        /*exchangeRates.transferExchange("selenium");
+        Assert.assertEquals(exchangeRates.getOutputForm(), "");*/
 
-        exchangeRatesChrome.transferExchange("0");
-        Assert.assertEquals(exchangeRatesChrome.getOutputForm(), "0");
+        exchangeRates.transferExchange("0");
+        Assert.assertEquals(exchangeRates.getOutputForm(), "0");
 
-        exchangeRatesChrome.transferExchange("-10000000");
-        Assert.assertEquals(exchangeRatesChrome.getOutputForm(), "0");
+        exchangeRates.transferExchange("-10000000");
+        Assert.assertEquals(exchangeRates.getOutputForm(), "0");
 
 
-        exchangeRatesChrome.transferExchange("10000000000000000000000000000");
-        Assert.assertNotEquals(exchangeRatesChrome.getOutputForm(), "0");
+        exchangeRates.transferExchange("10000000000000000000000000000");
+        Assert.assertNotEquals(exchangeRates.getOutputForm(), "0");
 
-        /*exchangeRatesChrome.transferExchange("''#@$%*!*@#.......");
-        Assert.assertEquals(exchangeRatesChrome.getOutputForm(), "");*/
+        /*exchangeRates.transferExchange("''#@$%*!*@#.......");
+        Assert.assertEquals(exchangeRates.getOutputForm(), "");*/
 
-        /*exchangeRatesChrome.transferExchange("<script>alert(1)</script>");
-        Assert.assertEquals(exchangeRatesChrome.getOutputForm(),"");*/
+        /*exchangeRates.transferExchange("<script>alert(1)</script>");
+        Assert.assertEquals(exchangeRates.getOutputForm(),"");*/
 
 
 
@@ -82,20 +81,19 @@ public class BrowserTest {
      * Тестирование смены курса валют местами
      */
     @Test
-    public void exchangeSwapTestChrome(){
+    public void exchangeSwapTest(){
         System.setProperty("webdriver.chrome.driver", "/home/maydar/git/HomeWorkTesting/HomeWorkForTesting/chromedriver");
-     //   driver.get(ExchangeRates.URL);
-        exchangeRatesChrome.transferExchange("1290");
-        exchangeRatesChrome.changeInputExchange(ExchangeCodes.RUB.getExchangeCode());
-        String oldValueString = exchangeRatesChrome.getOutputForm();
-        String oldValueExchange =  exchangeRatesChrome.getOutputExchangeElem();
+        exchangeRates.transferExchange("1290");
+        exchangeRates.changeInputExchange(ExchangeCodes.RUB.getExchangeCode());
+        String oldValueString = exchangeRates.getOutputForm();
+        String oldValueExchange =  exchangeRates.getOutputExchangeElem();
 
-        exchangeRatesChrome.swapExchanges();
-        if (exchangeRatesChrome.getOutputExchangeElem().equals(oldValueExchange)) {
-            Assert.assertEquals(exchangeRatesChrome.getOutputForm(), oldValueString );
+        exchangeRates.swapExchanges();
+        if (exchangeRates.getOutputExchangeElem().equals(oldValueExchange)) {
+            Assert.assertEquals(exchangeRates.getOutputForm(), oldValueString );
         }
         else {
-            Assert.assertNotEquals(exchangeRatesChrome.getOutputForm(), oldValueString);
+            Assert.assertNotEquals(exchangeRates.getOutputForm(), oldValueString);
         }
     }
 
@@ -104,37 +102,35 @@ public class BrowserTest {
      * Тестирование смены курса различных валют
      */
     @Test
-    public void changeInputExchangeTestChrome(){
+    public void changeInputExchangeTest(){
         System.setProperty("webdriver.chrome.driver", "/home/maydar/git/HomeWorkTesting/HomeWorkForTesting/chromedriver");
-      //  driver.get(ExchangeRates.URL);
-        exchangeRatesChrome.transferExchange("1290");
+        exchangeRates.transferExchange("1290");
         String oldValueString = "";
 
         for(ExchangeCodes o : ExchangeCodes.values()) {
-            oldValueString = exchangeRatesChrome.getOutputForm();
-            exchangeRatesChrome.changeInputExchange(o.getExchangeCode());
-            Assert.assertNotEquals(exchangeRatesChrome.getOutputForm(), oldValueString);
+            oldValueString = exchangeRates.getOutputForm();
+            exchangeRates.changeInputExchange(o.getExchangeCode());
+            Assert.assertNotEquals(exchangeRates.getOutputForm(), oldValueString);
         }
 
     }
 
     @Test
-    public void changeOutputExchangeTestChrome(){
+    public void changeOutputExchangeTest(){
         System.setProperty("webdriver.chrome.driver", "/home/maydar/git/HomeWorkTesting/HomeWorkForTesting/chromedriver");
-      //  driver.get(ExchangeRates.URL);
-        exchangeRatesChrome.transferExchange("1290");
+        exchangeRates.transferExchange("1290");
         String oldValueString = "";
         String oldExchangeString = "";
         for(ExchangeCodes o : ExchangeCodes.values()) {
-            oldValueString = exchangeRatesChrome.getOutputForm();
-            oldExchangeString  = exchangeRatesChrome.getOutputExchangeElem();
-            exchangeRatesChrome.changeOutputExchange(o.getExchangeCode());
+            oldValueString = exchangeRates.getOutputForm();
+            oldExchangeString  = exchangeRates.getOutputExchangeElem();
+            exchangeRates.changeOutputExchange(o.getExchangeCode());
 
-            if (oldExchangeString.equals(exchangeRatesChrome.getOutputExchangeElem())) {
-                Assert.assertEquals(exchangeRatesChrome.getOutputForm(), oldValueString);
+            if (oldExchangeString.equals(exchangeRates.getOutputExchangeElem())) {
+                Assert.assertEquals(exchangeRates.getOutputForm(), oldValueString);
             }
             else {
-                Assert.assertNotEquals(exchangeRatesChrome.getOutputForm(), oldValueString);
+                Assert.assertNotEquals(exchangeRates.getOutputForm(), oldValueString);
 
             }
         }
